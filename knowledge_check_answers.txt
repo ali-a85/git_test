@@ -1,0 +1,12 @@
+Git basics:
+    1) My repositories > New (Github)
+    2) Click on repository > Code > copy SSH path > $ git clone <paste SSH link>
+    3) Origin is default name of remote connection
+    4) Origin is remote address in git push origin main
+    5) Main is branch name in GitHub in git push origin main
+    6) Modified > Staged > Commit (2 way system in Git to save files)
+    7) <git status> to check current repositories
+    8) <git add> to place files in staging area
+    9) <git commit -m> to commit files and add descriptive message
+    10) <git push> to push changes to your repository
+    11) <git log> to look at history of previous commmits 
